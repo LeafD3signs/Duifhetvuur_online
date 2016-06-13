@@ -1,0 +1,71 @@
+screenText {
+    height: 200px;
+    width: 600px;
+    font-size: 60px;
+    color: white;
+    padding-left: 120px;
+    font-family: game-font;
+}
+
+#screenScore {
+    height: 640px;
+    width: 600px;
+    background-color: #ACBFC5;
+    margin: 0 auto;
+    padding-top: 50px;
+    top: 15px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.highScoreText{
+    height:200px;
+    width:600px;
+    font-size:60px;
+    color: white;
+    padding-left:60px;
+    font-family: game-font;
+    
+}
+
+.screenScoreInfo {
+    height: 400px;
+    width: 475px;
+    padding: 20px;
+    top: 125px;
+    left: 60px;
+    font-family: game-font;
+    background-color: #CFD5D7;
+}
+
+subScore{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    font-family: game-font;
+    
+    border: none;
+    margin: 0 auto;
+    width: 200px;
+    height: 50px;
+    padding:20px;
+    padding-left:50px;
+    top:200px;
+    left:380px;
+}
+
+backButton {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    font-family: game-font;
+    border: none;
+    margin: 0 auto;
+    width: 475px;
+    height: 75px;
+    padding: 25px;
+    padding-left: 110px;
+    top: 545px;
+    left: 60px;
+}
